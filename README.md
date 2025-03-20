@@ -1,3 +1,7 @@
+# VSdsROO
+ python coding with VS code and deepseek and ROO
+
+
 # Water-Treatment-Guide
 A guide on water treatment processes and applications.
 
